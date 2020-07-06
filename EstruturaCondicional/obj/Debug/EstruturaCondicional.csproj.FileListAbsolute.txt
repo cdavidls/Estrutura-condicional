@@ -1,0 +1,7 @@
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\EstruturaCondicional.pdb
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\EstruturaCondicional.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\EstruturaCondicional.pdb
